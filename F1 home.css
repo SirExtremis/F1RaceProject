@@ -1,0 +1,51 @@
+#timer {
+    color: rgb(156, 29, 24);
+}
+
+h1{
+    text-align: center;
+}
+
+body{
+    background-image: linear-gradient(45deg, #d9dfec 0%, #e4efe9 100%);
+    background-size: cover;
+}
+
+p {
+    font-size: 18px;
+}
+
+.podium {
+    font-weight: bold;
+}
+
+footer {
+    font-size: 20px;
+}
+
+body {
+    overflow-x: hidden;
+    background-image: linear-gradient();
+    background-size: cover;
+    background-repeat: no-repeat;;
+}
+
+.china {
+    width: 400px;
+    height: 350px;
+}
+
+.bahrain {
+    width: 400px;
+    height: 350px;
+}
+
+.aus {
+    width: 400px;
+    height: 335px;
+}
+
+.days {
+    color: #ABA8A7;
+    font-style: italic;
+}

@@ -1,0 +1,29 @@
+img {
+    border:3px solid gray;
+    border-radius: 50%;
+    width: 75px;
+    height: 75px;
+    margin: 0 auto;
+    display: block;
+}
+
+.content {
+    width: 500px;
+    display: block;
+    margin: 0 auto;
+    height: 400px;
+}
+
+span {
+    font-size: 20px;
+}
+
+body {
+    background-image: radial-gradient(yellow, orangered);
+    background-size: cover;
+    overflow-x: hidden;
+}
+
+footer {
+    font-size: 20px;
+}
